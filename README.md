@@ -1,7 +1,7 @@
 # ScreenCapture
 Android端的屏幕录制应用
 > 
-没有广告，没有后台应用，纯净的屏幕录制，可录声音，画面流畅
+没有广告，没有后台应用，纯净的屏幕录制，可录声音，画面流畅，能够预览以及分享
 > 
 ![image](https://github.com/wzb19960208/ScreenCapture/raw/master/result/11.jpg)
 ![image](https://github.com/wzb19960208/ScreenCapture/raw/master/result/22.jpg)
